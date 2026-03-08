@@ -8,7 +8,7 @@
 ## Rating Graph
 
 <p align="center">
-<img src="AtCoder/ABC/ABC448/ABC448.png" width="600">
+<img src="rating.png" width="600">
 </p>
 
 
