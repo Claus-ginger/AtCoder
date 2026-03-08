@@ -1,6 +1,6 @@
 # AtCoder Practice
 
-競技プログラミングの学習ログ。
+競技プログラミングの学習ログ。　　
 AtCoderの問題を解いたコードを管理していきます。
 
 ## Progress
