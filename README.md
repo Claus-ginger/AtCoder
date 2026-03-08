@@ -1,6 +1,7 @@
 # AtCoder Practice
 
 競技プログラミングの学習ログ。
+AtCoderの問題を解いたコードを管理していきます。
 
 ## Progress
 
@@ -22,4 +23,4 @@
     └── README.md
 
 ## Environment
-Language: Python  
+- Language: Python  
