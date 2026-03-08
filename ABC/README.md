@@ -3,17 +3,43 @@
 ## Rating Graph
 
 <p align="center">
-<img src="rating.png" width="600">
+  <img src="rating.png" width="600">
 </p>
 
 ## Contest log
-| Contest | A | B | C | D | E | F | G | Ranking | Performance | Rating |
-|-------|---|---|---|---|---|---|---|---|---|---|
-| ABC448　|2:51 <br> impl | 12:39 <br> counting | 29:03(1TLE) <br> sort / set| - | - | - | - | 5439 | 691 | 279(+54) |
 
-
-
-
+<table>
+  <thead>
+    <tr style="background-color:#f6f8fa;">
+      <th>Contest</th>
+      <th>A</th>
+      <th>B</th>
+      <th>C</th>
+      <th>D</th>
+      <th>E</th>
+      <th>F</th>
+      <th>G</th>
+      <th>Ranking</th>
+      <th>Performance</th>
+      <th>Rating</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ABC448</td>
+      <td>2:51<br>impl</td>
+      <td>12:39<br>counting</td>
+      <td>29:03 (1TLE)<br>sort / set</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>5439</td>
+      <td>691</td>
+      <td>279 (+54)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Algorithm Tags
 
