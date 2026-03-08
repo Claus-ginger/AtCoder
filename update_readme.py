@@ -25,8 +25,8 @@ def main() -> None:
 
     new_stats_block = (
         "<!-- START_SECTION:stats -->\n"
-        f"Solved problems: {solved_problems}\n"
-        f"Last updated: {today}\n"
+        f"- Solved problems: {solved_problems}\n"
+        f"- Last updated: {today}\n"
         "<!-- END_SECTION:stats -->"
     )
 
@@ -38,7 +38,6 @@ def main() -> None:
     )
 
     updated_text = pattern.sub(new_stats_block, readme_text)
-
     readme_path.write_text(updated_text, encoding="utf-8")
 
 
