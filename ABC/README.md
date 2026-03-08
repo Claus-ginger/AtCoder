@@ -1,15 +1,18 @@
-# AtCoder Log
-
-| Contest | A | B | C | D | E | F | G | Ranking | Performance | Rating |
-|-------|---|---|---|---|---|---|---|---|---|---|
-| ABC448　|2:51 <br> impl | 12:39 <br> impl | 29:03(1TLE) <br> sort+set| - | - | - | - | 5439 | 691 | 279(+54) |
-
+# AtCoder Beginners Contest Log
 
 ## Rating Graph
 
 <p align="center">
 <img src="rating.png" width="600">
 </p>
+
+## Contest log
+| Contest | A | B | C | D | E | F | G | Ranking | Performance | Rating |
+|-------|---|---|---|---|---|---|---|---|---|---|
+| ABC448　|2:51 <br> impl | 12:39 <br> counting | 29:03(1TLE) <br> sort / set| - | - | - | - | 5439 | 691 | 279(+54) |
+
+
+
 
 
 ## Algorithm Tags
