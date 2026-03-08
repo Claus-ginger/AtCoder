@@ -13,8 +13,8 @@ AtCoderの問題を解いたコードを管理していきます。
 
 ## Contents
 
-- tessoku (競技プログラミングの鉄則)
-- `ABC/` : AtCoder Beginner Contest
+- tessoku : (競技プログラミングの鉄則)
+- `ABC` : AtCoder Beginner Contest
 
 ## Directory Structure
 
