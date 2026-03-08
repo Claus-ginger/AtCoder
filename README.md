@@ -23,5 +23,6 @@ AtCoderの問題を解いたコードを管理していきます。
     ├── ABC
     └── README.md
 
-## Environment
-- Language: Python  
+## Language
+- Python
+- C++ (learning)
