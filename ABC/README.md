@@ -7,7 +7,9 @@
 
 ## Rating Graph
 
-![rating](https://atcoder-stats.vercel.app/api?username=Gizzard)
+<p align="center">
+<img src="https://atcoder.jp/users/Gizzard/history" width="600">
+</p>
 
 
 ## Algorithm Tags
