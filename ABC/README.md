@@ -8,7 +8,7 @@
 ## Rating Graph
 
 <p align="center">
-<img src="https://atcoder.jp/users/Gizzard/history" width="600">
+<img src="ABC/ABC448/ABC448.png" width="600">
 </p>
 
 
