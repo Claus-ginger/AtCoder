@@ -7,8 +7,8 @@ AtCoderの問題を解いたコードを管理していきます。
 ## Progress
 
 <!-- START_SECTION:stats -->
-- Solved problems: 10
-- Last updated: 2026-03-08
+- Solved problems: 11
+- Last updated: 2026-03-09
 <!-- END_SECTION:stats -->
 
 ## Contents
