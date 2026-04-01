@@ -24,6 +24,7 @@ for i in range(1, M+1):
         
         dp[i][j] = min(dp[i][j], dp[i-1][j])
         dp[i][v] = min(dp[i][v], dp[i-1][j] + 1)
+        
 if dp[M][2 ** N - 1] == 1000000000:
 	print("-1")
 else:
