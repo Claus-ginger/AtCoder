@@ -13,9 +13,9 @@ for i in range(1, M+1):
         already = [None] * N
         for k in range(0, N):
             if (j // (2**k)) % 2 == 0:
-                already = 0
+                already[k] = 0
             else:
-                already = 1
+                already[k] = 1
         
         v = 0
         for k in range(0, N):
