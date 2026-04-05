@@ -24,7 +24,7 @@
 | B14 | 半分全列挙+bit探索 | 2026-03-14 |
 | A15 | ソート+二分探索 | 2026-03-14 |
 
-## 04 Dymanic Programming
+## 04 Dynamic Programming
 | Problem | Title | Date |
 |-------|------|------|
 | A16 | 動的計画法の基本 | 2026-03-15 |
