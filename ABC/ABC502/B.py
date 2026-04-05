@@ -4,3 +4,4 @@ for i in range(H):
     print("#"*W)
   else:
     print("#"+"."*(W-2)+"#")
+   
