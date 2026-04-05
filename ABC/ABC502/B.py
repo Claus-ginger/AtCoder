@@ -4,4 +4,12 @@ for i in range(H):
     print("#"*W)
   else:
     print("#"+"."*(W-2)+"#")
-   
+"""
+for i in range(H):
+    for j in range(W):
+        if i == 0 or i == H - 1 or j == 0 or j == W - 1: # 端のマスなら
+            print('#', end='') # # を
+        else: # そうでなければ
+            print('.', end='') # . を出力
+        print('')
+"""  
